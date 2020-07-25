@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**wbstwayde/wbstwayde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**im wayde** im a programmer, discord bot dev, high school student, music producer, graphic designer, and gamer, theres loads of other things i do but thats a lot of what i do 
+
+what i do
+
+**produce music;** [Spotify](https://open.spotify.com/artist/6IGgZ2gPvzL1sAS0OCoJWs?si=P-D-F3KpRhiZzVobIbLjlg)
+
+if you want to contact me
+
+#### my discord is WBSTWayde#8798
+
+
