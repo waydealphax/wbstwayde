@@ -9,6 +9,8 @@ what i do
 
 if you want to contact me
 
-#### my discord is WBSTWayde#8798
+**epic website** [Here](https://pog.wbst.page/)
+
+#### my discord is Wayde#8798
 
 
