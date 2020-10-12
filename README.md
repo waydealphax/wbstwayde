@@ -5,13 +5,13 @@
 
 what i do
 
-**produce music;** [Spotify](https://open.spotify.com/artist/6IGgZ2gPvzL1sAS0OCoJWs?si=P-D-F3KpRhiZzVobIbLjlg)
+**produce music;** [Spotify](https://pog.alphaxdev.xyz/spotify)
 
 if you want to contact me
 
-**epic website** [Here](https://pog.wbst.page/)
+**epic website** [Here](https://pog.alphaxdev.xyz/)
 
-**dev website** [Here](https://alphax-dev.wbst.page/)
+**dev website** [Here](https://bot.alphaxdev.xyz/)
 
 #### my discord is Wayde#8798
 
