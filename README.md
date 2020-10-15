@@ -6,9 +6,9 @@ i write the AlphaX discord bot more info on the dev site, along with some other 
 
 <h3 align="center">links</h3>
 <p align="center">
-  <a href="https://bot.alphaxdev.xyz/">bot site</a> *
-  <a href="https://bot.alphaxdev.xyz/support">support</a> *
-  <a href="https://pog.alphaxdev.xyz/things">meme dump</a> *
+  <a href="https://bot.alphaxdev.xyz/">bot site</a> --
+  <a href="https://bot.alphaxdev.xyz/support">support</a> --
+  <a href="https://pog.alphaxdev.xyz/things">meme dump</a> --
 </p>
 
 <hr>
