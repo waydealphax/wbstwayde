@@ -1,4 +1,4 @@
-hey, ** im wayde**, im a high school student, while also being a music producer and programmer, i write in java, html, css and python, with a bit of c#, c++ thrown in here and there, as to what i write;
+hey, **im wayde**, im a high school student, while also being a music producer and programmer, i write in java, html, css and python, with a bit of c#, c++ thrown in here and there, as to what i write;
 
 i write the AlphaX discord bot more info on the dev site
 
