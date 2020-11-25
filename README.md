@@ -8,11 +8,12 @@ i write the AlphaX discord bot, as the head dev, and owner of alphax there is mo
 <p align="center">
   <a href="https://bot.alphaxdev.xyz/">dev site</a> --
   <a href="https://bot.alphaxdev.xyz/support">support</a> --
-  <a href="https://pog.alphaxdev.xyz/things">meme dump</a> --
+  <a href="https://shitposting.im-wayde.xyz">meme dump</a> --
+  <a href="https://osu.ppy.sh/users/-wayde-">osu</a> --
 </p>
 
 <hr>
-- ✉️ wayde@alphaxdev.xyz and support@alphaxdev.xyz
+- ✉️ wayde@alphaxdev.xyz and me@im-wayde.xyz
 
 - 🎶 spotify ; https://pog.alphaxdev.xyz/spotify
 
