@@ -4,8 +4,6 @@ i write the AlphaX discord bot, as the head dev, and owner of alphax there is mo
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wbstwayde&count_private=true&theme=synthwave&show_icons=true" />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbstwayde&theme=synthwave&langs_count=10" />
 
 <hr>
 
