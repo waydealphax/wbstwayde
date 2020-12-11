@@ -2,6 +2,9 @@ hey, **im wayde**, im a high school student, im an aussie 🇦🇺 🇦🇺 🇦
 
 i write the AlphaX discord bot, as the head dev, and owner of alphax there is more info on the dev site, along with some other things
 
+[![Waydes's github stats](https://github-readme-stats.vercel.app/api?username=wbstwayde)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <hr>
 
 <h3 align="center">links</h3>
