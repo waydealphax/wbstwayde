@@ -1,3 +1,4 @@
+![beans](https://ok.osuhow.wtf/ez.png)
 hey, **im wayde**, im a high school student, im an aussie 🇦🇺 🇦🇺 🇦🇺 and i write in java, html, css and python, with a bit of c#, c++ thrown in here and there, as to what i write;
 
 i write the AlphaX discord bot, as the head dev, and owner of alphax there is more info on the dev site, along with some other things
@@ -16,8 +17,6 @@ i write the AlphaX discord bot, as the head dev, and owner of alphax there is mo
 </p>
 
 <hr>
-- ✉️ wayde@alphaxdev.xyz and me@im-wayde.xyz
+- ✉️ wayde@alphaxdev.xyz
 
-- 🎶 spotify ; https://pog.alphaxdev.xyz/spotify
-
-![AlphaX Dev Team](https://i.imgur.com/I8PZx6C.png)
+![beans](https://ok.osuhow.wtf/ez.png)
